@@ -18,7 +18,7 @@ nav{
     width: 100%;
 
 }
-label#logo{
+#logo{
     color: white;
     font-size: 35px;
     line-height: 80px;
@@ -58,5 +58,6 @@ a:hover{
     cursor: pointer;
 
 }
+
 
 
