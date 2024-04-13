@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#inloggen{
+ 
+   display: flex;
+    
+}
+#inloggen li{
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#Body{
+    background-color: white;
+    max-width: 100%;
+    height: auto;
+}
