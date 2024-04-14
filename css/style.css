@@ -13,7 +13,7 @@ Body{
 
 }
 nav{
-    background-color:#0082e6;
+    background-color:#417033;
     height: 80px;
     width: 100%;
 
@@ -59,8 +59,8 @@ a:hover{
 
 }
 /*************************************************FOOTER******************* */
-footer{
-    background-color: #000000ff;
+/* footer{
+    background-color: #1d1d2a;
     position: relative;
     width: 100%;
     min-height: 350px;
@@ -177,10 +177,10 @@ footer{
    border-top-left-radius: 0;
    border-bottom-left-radius: 0;
    background-color: #ff014fff;
-}
+} */
 
 /********** Responsive Design ********/
-@media(max-width:900px)
+/* @media(max-width:900px)
 {
  .row{
    flex-direction: column;
@@ -201,6 +201,95 @@ footer{
    text-align: left;
    margin-bottom: 20px;
  }
+} */
+
+/* footer {
+   background-color: #1d1d2a;
+   
+   width: 100%;
+   min-height: 350px;
+   padding: 3rem 1rem;
+   
 }
 
+.container {
+   max-width: 1140px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
 
+.row {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.col {
+   min-width: 250px;
+   color: #f2f2f2;
+   padding: 0 2rem;
+}
+
+.col .logo {
+   width: 100px;
+   margin-bottom: 25px;
+}
+
+.col h3 {
+   color: #ff014fff;
+   margin-bottom: 20px;
+   position: relative;
+
+}
+
+.col .social a i {
+   color: #ff014fff;
+   color:#ff014fff;
+   margin-top:2rem;
+   margin-right: 5px;
+}
+
+.col .links a {
+   display: block;
+   text-decoration: none;
+   color:#f2f2f2;
+   margin-bottom: 5px;
+   position: relative;
+}
+.col .contact-details{
+   display: inline-flex;
+   justify-content: space-between;
+}
+.col .contact-details i {
+   margin-right: 15px;
+}
+ */
+
+
+
+/********** Responsive Design ********/
+ /* @media(max-width:900px)
+{
+ .row{
+   flex-direction: column;
+ }
+ .col{
+   width: 100%;
+   text-align: left;
+   margin-bottom: 25px;
+ }
+}
+@media(max-width:768px)
+{
+ .row{
+   flex-direction: column;
+ }
+ .col{
+   width: 100%;
+   text-align: left;
+   margin-bottom: 20px;
+ }
+} */
