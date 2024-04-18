@@ -177,7 +177,7 @@ a:hover{
    border-top-left-radius: 0;
    border-bottom-left-radius: 0;
    background-color: #ff014fff;
-} */
+}  */
 
 /********** Responsive Design ********/
 /* @media(max-width:900px)
@@ -203,7 +203,7 @@ a:hover{
  }
 } */
 
-/* footer {
+footer {
    background-color: #1d1d2a;
    
    width: 100%;
@@ -265,13 +265,13 @@ a:hover{
 }
 .col .contact-details i {
    margin-right: 15px;
-}
- */
+} 
+
 
 
 
 /********** Responsive Design ********/
- /* @media(max-width:900px)
+ @media(max-width:900px)
 {
  .row{
    flex-direction: column;
@@ -292,4 +292,4 @@ a:hover{
    text-align: left;
    margin-bottom: 20px;
  }
-} */
+}
