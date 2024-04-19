@@ -12,20 +12,18 @@ Body{
     font-family: 'Times New Roman', Times, serif;
 
 }
+
+/***************************Navigatie$**************/
 nav{
     background-color:#417033;
     height: 80px;
     width: 100%;
+    position: fixed;
 
 }
-#logo{
-    color: white;
-    font-size: 35px;
-    line-height: 80px;
-    padding: 0 100px;
-    font-weight: bold;
-    cursor: pointer;
-
+nav .logo {
+   width: 100px;
+   margin: 5px 0px 5px 50px;
 }
 nav ul{
     float: right;
@@ -52,17 +50,49 @@ a:hover{
     background-color:black;
     transition: .55s;
 }
-.Menubtn{
-    font-size: 30px;
-    color: white;
-    float: right;
-    line-height: 80px;
-    margin-right: 40px;
-    cursor: pointer;
+ /*-------------------main-image------------------------------- */
+ img {
+   max-width: 100%;
+   height: auto;
+  }
+  .image-top {
+   width: 100%;
+   height: 500px;
+   background-size: cover;
+   background-position: center;
+   margin-bottom: 50px;
+   
+  }
 
+
+
+
+/*--------------------------------Partenaire----------------------------------------------------*/
+.Part {
+   background-color: white;
+   margin-bottom: 5px; 
+   padding: 20px;
+   box-shadow: 0 4px 8px 0 black; 
+   margin: auto; 
 }
 
+.Part h2{
+   text-align: center;
+   padding-bottom: 20px;
+   color:#417033 ;
+}
 
+.partners-container {
+   display: flex;
+   justify-content: space-around;
+   overflow-x: auto;
+}
+
+.Part-item {
+   width: 100px;
+   height: 100px;
+   object-fit: contain;
+}
 /***********************************************************FOOTER***************************/
 
 footer {
@@ -71,7 +101,7 @@ footer {
    min-height: 350px;
    padding: 48px 16px;
    margin-bottom: 0px;
-   position: fixed;
+   
    bottom: 0;
 }
 
