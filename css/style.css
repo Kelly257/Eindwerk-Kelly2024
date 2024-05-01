@@ -67,6 +67,30 @@ a:hover{
    margin-bottom: 50px;
    
   }
+/***************************************************OVER ONS******************/
+  .tekst {
+   max-width: 100%;
+   margin: 0 auto;
+   background-color: #fff;
+   padding: 20px;
+   border-radius:  15px 50px 30px;
+   margin: 20px;
+}
+.tekst p {
+   font-size: 21px;
+   margin-bottom: 5px;
+}
+.tekst h1{
+   text-align: center;
+   color:#417033;
+}
+
+.tekst h2 {
+   font-size: 24px;
+   margin-bottom: 10px;
+   color: #417033;
+}
+
   /**************************CATALOGUS PAGINA****************************************************/
   .container {
     
@@ -108,7 +132,78 @@ a:hover{
 }
 
 
+/***************************CONTACT PAGINA************************************************/
+/* Stijlen voor de contactgegevenssectie */
+#contact{
+   text-align: center;
+   color: #417033;
+}
 
+/* Stijlen voor de contactgegevenssectie */
+.contact-info {
+   background-color:#1d1d2a;
+   padding: 20px;
+   border-radius: 5px;
+   text-align: center;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   margin-bottom: 30px;
+}
+
+.contact-info h2 {
+   margin-bottom: 15px;
+   color: #ff014fff;
+}
+
+.contact-info p {
+   margin-bottom: 10px;
+   color:#f2f2f2;
+}
+
+/* Stijlen voor het contactformulier */
+.contact-form {
+   background-color: #fff;
+   padding: 20px;
+   border-radius: 5px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+   margin-bottom: 15px;
+   color: #333;
+}
+
+.contact-form label {
+   display: block;
+   margin-bottom: 5px;
+   color: #555;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+   width: 100%;
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 3px;
+   margin-bottom: 10px;
+}
+
+.contact-form textarea {
+   resize: vertical;
+}
+
+.contact-form button[type="submit"] {
+   background-color: #333;
+   color: #fff;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 3px;
+   cursor: pointer;
+}
+
+.contact-form button[type="submit"]:hover {
+   background-color: #555;
+}
 
 
 
