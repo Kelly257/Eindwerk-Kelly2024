@@ -92,7 +92,7 @@ a:hover{
 }
 
   /**************************CATALOGUS PAGINA****************************************************/
-  .container {
+  .container-catalogus {
     
    display: flex;
    flex-wrap: wrap;
