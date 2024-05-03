@@ -2,13 +2,15 @@
 <nav class="navbar navbar-inverse">
 <div class="container-fluid">
     <div class="navbar-header">
-         <a class="navbar-brand" href="#">DEMO LOGIN</a>
+         <!-- <a class="navbar-brand" href="">DEMO LOGIN</a> -->
+         <a href="home.html">
+    <img src="Image/Logo.jpg" alt="Logo" class="logo">
+</a>
     </div>
     <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
         <li><a href="#">Webshop</a></li>
         <li><a href="#">Informatie</a></li>
-        
     </ul>
     <ul class="nav navbar-nav navbar-right">
         <li><a href=""><?php if ($user!='Login') print 'Welkom '.$user;?></a></li>
@@ -18,3 +20,4 @@
     </ul>
 </div>
 </nav>
+
