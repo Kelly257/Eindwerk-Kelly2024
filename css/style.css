@@ -22,6 +22,7 @@ nav{
     position: fixed;
     top: 0;
     z-index: 1000;
+  
 
 
 }
@@ -32,6 +33,7 @@ nav .logo {
 nav ul{
     float: right;
     margin-right: 20px;
+
     
 
 }
@@ -330,6 +332,9 @@ footer {
    text-align: left;
    margin-bottom: 25px;
  }
+  nav ul {
+   flex-direction: column;
+ }
 }
 @media(max-width:768px)
 {
@@ -340,5 +345,8 @@ footer {
    width: 100%;
    text-align: left;
    margin-bottom: 20px;
+ }
+ nav ul li {
+   flex-direction: column;
  }
 }
