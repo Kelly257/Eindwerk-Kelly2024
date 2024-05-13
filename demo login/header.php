@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse " style="background-color: #417033; color: #fff;">
 <div class="container-fluid">
     <div class="navbar-header">
          <!-- <a class="navbar-brand" href="">DEMO LOGIN</a> -->
