@@ -95,7 +95,7 @@
                      <div class="links">
                         <a href="home.html">Home</a>
                         <a href="Over-ons.html">Over-ons</a>
-                        <a href="Catologus.html">Catalogus</a>
+                        <a href="Catalogus.html">Catalogus</a>
                         <a href="Contact.html">Contact</a>
                      </div>
                   </div>
@@ -103,10 +103,11 @@
                   <div class="kol" >
                      <h3>Merken</h3>
                      <div class="links">
-                        <a href="Rolex.html">Rolex</a>
-                        <a href="Cartier.html">Cartier</a>
-                        <a href="Jacob&Co.html">Jacob&Co</a>
-                        <a href="Festina.html">Festina</a>
+                        <a href="Rolex.php">Rolex</a>
+                        <a href="Omega.php">Rolex</a>
+                        <a href="Cartier.php">Cartier</a>
+                        <a href="Jacob&Co.php">Jacob&Co</a>
+                        <a href="Festina.php">Festina</a>
                      </div>
                   </div>
     
