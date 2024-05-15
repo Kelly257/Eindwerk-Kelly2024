@@ -9,18 +9,33 @@ if (isset($_SESSION["user"]))
 <!doctype html>
 <html lang="nl">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Demo SignUp</title>  
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>   
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href ="Login.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+   <link rel="shortcut icon" href="image/Logo.jpg" type="image/x-icon">
+   <title>DemoLogin</title>
+
 </head>
 <body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <?php
-        include_once("header.php");
-    ?>        
+<nav>
+   <a href="home.html">
+    <img src="Image/Logo.jpg" alt="Logo" class="logo">
+</a>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="Over-ons.html">Over ons</a></li>
+        <li><a href="Catalogus.html">Catalogus</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+        <li><a href=""><?php if ($user!='Login') print 'Welkom '.$user;?></a></li>
+        <?php if ($user=='Login') print '<li><a href="signupForm.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>';?>
+        <?php if ($user=='Login') print '<li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';?>
+        <li><a href="logout.php"><?php if ($user!='Login') print 'Logout';?></a></li>
+
+        <li><a href="winkelmandje.html"><i class="fas fa-shopping-cart"></i></a></li>
+    </ul>
+    
+</nav>      
     <div class="container">
         <div class="row">
             <h1>Sign Up</h1>

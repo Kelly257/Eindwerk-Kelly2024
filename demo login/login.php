@@ -41,7 +41,8 @@ if (isset($_SESSION["user"]))
                         <span class="glyphicon glyphicon-lock"></span>
                         <input type="text" name="password" id="password" required>                                    
                     </div>
-                    <span class="glyphicon glyphicon-user"></span><input class="btn btn-primary"  type="submit" value="SUBMIT" alt='person'>
+                    <span class="glyphicon glyphicon-user"></span>
+                    <input class="btn btn-primary"  type="submit" value="SUBMIT" alt='person'>
                     <div class="form-footer">
                         <p>Heb je nog geen account?<a href="signupForm.php">Sign Up</a></p>
                         <?php 

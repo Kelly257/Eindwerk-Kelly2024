@@ -25,8 +25,46 @@
     
 </nav>
 
-<div class="image-top" style="background-image: url('Image/Logo1.jpg');"> 
+<!-- <div class="image-top" style="background-image: url('Image/Logo1.jpg');">  -->
 
+<!-- product -->
+<div class="product-pagina">
+        <div class="video">
+            <h2>Festina Video</h2>
+            <video controls width="100%">
+                <source src="Video/Festina1.mp4" type="festina1">
+
+            </video>
+        </div>
+
+        <div class="image">
+            <h2>Festina heren</h2>
+            <img src="Image/festinaheren.jpg" alt="Festina heren" class="product-image">
+        </div>
+
+        <div class="product">
+            <h2>Featured Articles</h2>
+            <div class="artikel">
+                <img src="image/article1.jpg" alt="Article 1" class="article-image">
+                <p class="beschrijving">Description of Article 1</p>
+                <button class="btn add-to-cart">Add to Cart</button>
+                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+            </div>
+            <div class="artikel">
+                <img src="image/article2.jpg" alt="Article 2" class="article-image">
+                <p class="beschrijving">Description of Article 2</p>
+                <button class="btn add-to-cart">Add to Cart</button>
+                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+            </div>
+            <div class="artikel">
+                <img src="image/article3.jpg" alt="Article 3" class="article-image">
+                <p class="abeschrijving">Description of Article 3</p>
+                <button class="btn add-to-cart">Add to Cart</button>
+                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+            </div>
+        </div>
+    </div>
+<!-- Partenaires -->
 </div>
     <div class="Part">
         <h2>Partenaires</h2>
