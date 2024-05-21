@@ -36,34 +36,62 @@
 
             </video>
         </div>
-
+<!-- Festina-Heren -->
         <div class="image">
-            <h2>Festina heren</h2>
+           
             <img src="Image/festinaheren.jpg" alt="Festina heren" class="product-image">
         </div>
 
         <div class="product">
-            <h2>Featured Articles</h2>
+            <h2>Festina Heren</h2>
             <div class="artikel">
-                <img src="image/article1.jpg" alt="Article 1" class="article-image">
-                <p class="beschrijving">Description of Article 1</p>
-                <button class="btn add-to-cart">Add to Cart</button>
-                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+                <img src="Image/Festina Heren 1.jpg" alt="Artikel 1" class="artikel-image">
+                <p class="beschrijving">PRIJS: € 119,00 </p>
+                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+                <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/heren/festina/festina-heren-blauw-staal-horloge-armband-f20555_4.html'" >Less meer</button>
             </div>
             <div class="artikel">
-                <img src="image/article2.jpg" alt="Article 2" class="article-image">
-                <p class="beschrijving">Description of Article 2</p>
-                <button class="btn add-to-cart">Add to Cart</button>
-                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+                <img src="image/FestinaHeren2.jpg" alt="Artikel 2" class="artikel-image">
+                <p class="beschrijving">PRIJS: € 129,00 </p>
+                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+                <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/heren/festina/festina-heren-zilver-timeless-chronograph-staal-horloge-armband-f20343_1.html'">Less Meer</button>
             </div>
             <div class="artikel">
-                <img src="image/article3.jpg" alt="Article 3" class="article-image">
-                <p class="abeschrijving">Description of Article 3</p>
-                <button class="btn add-to-cart">Add to Cart</button>
-                <button class="btn learn-more" onclick="window.location.href='https://example.com'">Learn More</button>
+                <img src="image/FestinaHeren3.jpg" alt="Artikel 3" class="artikel-image">
+                <p class="abeschrijving">PRIJS: € 99,00 </p>
+                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+                <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/heren/festina/festina-heren-zwart-multifunction-collection-staal-horloge-armband-f20445_6.html'">Less Meer</button>
             </div>
         </div>
     </div>
+
+    <!-- Festina-Dames -->
+    <div class="image">
+           
+           <img src="Image/festinaDame.jpg" alt="Festina Dames" class="product-image">
+       </div>
+
+       <div class="product">
+           <h2>Festina vrouwen</h2>
+           <div class="artikel">
+               <img src="Image/FestinaDame1.jpg" alt="Artikel 1" class="artikel-image">
+               <p class="beschrijving">PRIJS: € 129,00 </p>
+               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+               <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-rose-boyfriend-collection-staal-horloge-armband-f20503_2.html'" >Less meer</button>
+           </div>
+           <div class="artikel">
+               <img src="image/FestinaDame2.jpg" alt="Artikel 2" class="artikel-image">
+               <p class="beschrijving">PRIJS: € 249,00 </p>
+               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+               <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-horloge-f20615_1.html'">Less Meer</button>
+           </div>
+           <div class="artikel">
+               <img src="image/FestinaDame3.jpg" alt="Artikel 3" class="artikel-image">
+               <p class="abeschrijving">PRIJS: € 119,00 </p>
+               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+               <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-zwart-mademoiselle-staal-horloge-armband-f20496_2.html'">Less Meer</button>
+           </div>
+       </div>
 <!-- Partenaires -->
 </div>
     <div class="Part">

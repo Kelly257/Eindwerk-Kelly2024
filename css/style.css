@@ -170,6 +170,10 @@ a:hover{
    border-bottom: 1px solid #ccc;
    margin-bottom: 10px;
 }
+.artikel h3{
+   color: #ff014fff;;
+
+}
 
 .beschrijving{
    margin: 10px 0;
