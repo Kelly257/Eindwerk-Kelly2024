@@ -44,14 +44,14 @@
            </div>
            <div class="artikel">
                <img src="image/TagHeren2.jpg" alt="Artikel 2" class="artikel-image">
-               <h3>tag-heuer-monaco</h3>
+               <h3>Tag-heuer-monaco</h3>
                <p class="beschrijving">PRIJS: € 10.750,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
                <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-monaco/39-mm-calibre-heuer-02-automatic/CBL2182.FT6235.htmll'">Less Meer</button>
            </div>
            <div class="artikel">
                <img src="image/TagHeren3.jpg" alt="Artikel 3" class="artikel-image">
-               <h3>Ttag-heuer-connected</h3>
+               <h3>Tag-heuer-connected</h3>
                <p class="abeschrijving">PRIJS: € 99,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
                <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BC6608.html'">Less Meer</button>
@@ -68,25 +68,25 @@
       <div class="product">
           <h2>TAG-HEUER vrouwen</h2>
           <div class="artikel">
-              <img src="Image/FestinaDame1.jpg" alt="Artikel 1" class="artikel-image">
-              <h3>Tag-heuer-formula-1</h3>
-              <p class="beschrijving">PRIJS: € 129,00 </p>
+              <img src="Image/TagDame1.jpg" alt="Artikel 1" class="artikel-image">
+              <h3>Tag-heuer-link</h3>
+              <p class="beschrijving">PRIJS: € 5.550,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-rose-boyfriend-collection-staal-horloge-armband-f20503_2.html'" >Less meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-link/32-mm-quartz/WBC131G.BA0649.html'" >Less meer</button>
           </div>
           <div class="artikel">
-              <img src="image/FestinaDame2.jpg" alt="Artikel 2" class="artikel-image">
-              <h3>Tag-heuer-formula-1</h3>
-              <p class="beschrijving">PRIJS: € 249,00 </p>
+              <img src="image/TagDame2.jpg" alt="Artikel 2" class="artikel-image">
+              <h3>Tag-heuer-aquaracer</h3>
+              <p class="beschrijving">PRIJS: € 3.400,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-horloge-f20615_1.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-aquaracer/30-mm-calibre-9-automatic/WBP2415.BA0622.html'">Less Meer</button>
           </div>
           <div class="artikel">
-              <img src="image/FestinaDame3.jpg" alt="Artikel 3" class="artikel-image">
-              <h3>Tag-heuer-formula-1</h3>
-              <p class="abeschrijving">PRIJS: € 119,00 </p>
+              <img src="image/TagDame3.jpg" alt="Artikel 3" class="artikel-image">
+              <h3>tag-heuer-connected</h3>
+              <p class="abeschrijving">PRIJS: € 1.400,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-zwart-mademoiselle-staal-horloge-armband-f20496_2.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BA0617.html'">Less Meer</button>
           </div>
       </div>
 <!-- PARTENAIRES  -->

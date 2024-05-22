@@ -30,7 +30,7 @@
 <!-- product -->
 <div class="product-pagina">
         <div class="video">
-            <h2>Festina Video</h2>
+    
             <video controls width="100%">
                 <source src="Video/Festina1.mp4" type="festina1">
 

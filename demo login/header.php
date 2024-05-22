@@ -8,9 +8,9 @@
 </a>
     </div>
     <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Webshop</a></li>
-        <li><a href="#">Informatie</a></li>
+        <li class="active"><a href="home.html">Home</a></li>
+        <li><a href="catalogus.html">Catalogus</a></li>
+        <li><a href="contact.html">Contact</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
         <li><a href=""><?php if ($user!='Login') print 'Welkom '.$user;?></a></li>
