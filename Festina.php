@@ -30,11 +30,11 @@
 <!-- product -->
 <div class="product-pagina">
         <div class="video">
-    
-            <video controls width="100%">
-                <source src="Video/Festina1.mp4" type="festina1">
-
-            </video>
+        <video controls  autoplay>
+  <source src="Video\Festina1.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
         </div>
 <!-- Festina-Heren -->
         <div class="image">
