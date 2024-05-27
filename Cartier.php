@@ -27,66 +27,66 @@
 
 <!-- <div class="image-top" style="background-image: url('Image/Logo1.jpg');">  -->
     
-<!-- FTAG-HEUR-Heren -->
+<!-- TAG-HEUR-Heren -->
 <div class="image">
            
-           <img src="Image/TagHeren.jpg" alt="Tag-Heur heren" class="product-image">
+           <img src="Image/Cartierheren" alt="Tag-Heur heren" class="product-image">
        </div>
 
        <div class="product">
-           <h2>TAG-HEUER Heren</h2>
+           <h2>Cartier Heren</h2>
            <div class="artikel">
-               <img src="Image/TagHeren11.jpg" alt="Artikel 1" class="artikel-image">
-               <h3>Tag-heuer-formula-1</h3>
-               <p class="beschrijving">PRIJS: € 2.350,00 </p>
+               <img src="Image/Cartierheren1.jpg" alt="Artikel 1" class="artikel-image">
+               <h3>santos-de-cartier-horloge</h3>
+               <p class="beschrijving">PRIJS: € 11.500,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ101AW.BA0842.html'" >Less meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/nl-nl/santos-de-cartier-horloge_cod1647597339937469.html'" >Less meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren2.jpg" alt="Artikel 2" class="artikel-image">
-               <h3>Tag-heuer-monaco</h3>
-               <p class="beschrijving">PRIJS: € 10.750,00 </p>
+               <img src="image/Cartierheren2.jpg" alt="Artikel 2" class="artikel-image">
+               <h3>ballon-bleu-de-cartier-horloge</h3>
+               <p class="beschrijving">PRIJS: € 19.200,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-monaco/39-mm-calibre-heuer-02-automatic/CBL2182.FT6235.htmll'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/nl-nl/ballon-bleu-de-cartier-horloge_cod44733502651450858.html#dept=EU_Ballon-Bleu-de-Cartier'">Less Meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren3.jpg" alt="Artikel 3" class="artikel-image">
-               <h3>Tag-heuer-connected</h3>
-               <p class="abeschrijving">PRIJS: € 99,00 </p>
+               <img src="image/Cartierheren3.jpg" alt="Artikel 3" class="artikel-image">
+               <h3>tank-louis-cartier-horloge</h3>
+               <p class="abeschrijving">PRIJS: € 13.000,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BC6608.html'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/en-us/watches/collections/tank/tank-louis-cartier-watch--CRWGTA0011.html'">Less Meer</button>
            </div>
        </div>
    </div>
 
-   <!-- TAG-HEUR-VROUWEN-->
+   <!-- CARTIER-VROUWEN-->
    <div class="image">
           
-          <img src="Image/TagDames.jpg" alt="Tag-heur Dames" class="product-image">
+          <img src="Image/Cartierdame.jpg" alt="Cartier Dames" class="product-image">
       </div>
 
       <div class="product">
-          <h2>TAG-HEUER vrouwen</h2>
+          <h2>Cartier vrouwen</h2>
           <div class="artikel">
-              <img src="Image/TagDame1.jpg" alt="Artikel 1" class="artikel-image">
-              <h3>Tag-heuer-link</h3>
-              <p class="beschrijving">PRIJS: € 5.550,00 </p>
+              <img src="Image/CartierDame1.jpg" alt="Artikel 1" class="artikel-image">
+              <h3>tank-francaise-Catier-horloge</h3>
+              <p class="beschrijving">PRIJS: € 24.000,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-link/32-mm-quartz/WBC131G.BA0649.html'" >Less meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/nl-nl/tank-francaise-horloge_cod1647597304509659.html'" >Less meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame2.jpg" alt="Artikel 2" class="artikel-image">
-              <h3>Tag-heuer-aquaracer</h3>
-              <p class="beschrijving">PRIJS: € 3.400,00 </p>
+              <img src="image/CartierDame2.jpg" alt="Artikel 2" class="artikel-image">
+              <h3>panthere-de-cartier-horloge</h3>
+              <p class="beschrijving">PRIJS: € 30.100,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-aquaracer/30-mm-calibre-9-automatic/WBP2415.BA0622.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/nl-nl/panthere-de-cartier-horloge_cod1647597306259410.html#dept=EU_Panthere-de-Cartier-Watches'">Less Meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame3.jpg" alt="Artikel 3" class="artikel-image">
-              <h3>tag-heuer-connected</h3>
-              <p class="abeschrijving">PRIJS: € 1.400,00 </p>
+              <img src="image/CartierDame3.jpg" alt="Artikel 3" class="artikel-image">
+              <h3>pasha-de-cartier-horloge</h3>
+              <p class="abeschrijving">PRIJS: € 28.400,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BA0617.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.cartier.com/nl-nl/pasha-de-cartier-horloge_cod20346390236037638.html#dept=EU_Pasha-de-Cartier'">Less Meer</button>
           </div>
       </div>
 

@@ -25,70 +25,69 @@
     
 </nav>
 
-<!-- <div class="image-top" style="background-image: url('Image/Logo1.jpg');">  -->
-    
-<!-- FTAG-HEUR-Heren -->
+<!-- Jacob&co-Heren -->
 <div class="image">
            
-           <img src="Image/TagHeren.jpg" alt="Tag-Heur heren" class="product-image">
+           <img src="Image/Omegaheren.jpg" alt="Omega heren" class="product-image">
        </div>
 
        <div class="product">
-           <h2>TAG-HEUER Heren</h2>
+           <h2>Omega Heren</h2>
            <div class="artikel">
-               <img src="Image/TagHeren11.jpg" alt="Artikel 1" class="artikel-image">
-               <h3>Tag-heuer-formula-1</h3>
-               <p class="beschrijving">PRIJS: € 2.350,00 </p>
+               <img src="Image/Omegaheren1.jpg" alt="Artikel 1" class="artikel-image">
+               <h3>omega-constellation-globemaster</h3>
+               <p class="beschrijving">PRIJS: € 14.300,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ101AW.BA0842.html'" >Less meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-constellation-globemaster-co-axial-master-chronometer-annual-calendar-41-mm-13023412211001'" >Less meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren2.jpg" alt="Artikel 2" class="artikel-image">
-               <h3>Tag-heuer-monaco</h3>
-               <p class="beschrijving">PRIJS: € 10.750,00 </p>
+               <img src="image/Omegaheren2.jpg" alt="Artikel 2" class="artikel-image">
+               <h3>omega-seamaster-diver-300m</h3>
+               <p class="beschrijving">PRIJS: € 9.200,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-monaco/39-mm-calibre-heuer-02-automatic/CBL2182.FT6235.htmll'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21030422003002'">Less Meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren3.jpg" alt="Artikel 3" class="artikel-image">
-               <h3>Tag-heuer-connected</h3>
-               <p class="abeschrijving">PRIJS: € 99,00 </p>
+               <img src="image/Omegaheren3.jpg" alt="Artikel 3" class="artikel-image">
+               <h3>omega-de-ville-prestige</h3>
+               <p class="abeschrijving">PRIJS: € 6.700,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BC6608.html'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-de-ville-prestige-co-axial-master-chronometer-power-reserve-41-mm-43410412103001'">Less Meer</button>
            </div>
        </div>
    </div>
 
-   <!-- TAG-HEUR-VROUWEN-->
+   <!-- Omega-VROUWEN-->
    <div class="image">
           
-          <img src="Image/TagDames.jpg" alt="Tag-heur Dames" class="product-image">
+          <img src="Image/Omegadame.jpg" alt="Omega Dames" class="product-image">
       </div>
 
       <div class="product">
-          <h2>TAG-HEUER vrouwen</h2>
+          <h2>Omega vrouwen</h2>
           <div class="artikel">
-              <img src="Image/TagDame1.jpg" alt="Artikel 1" class="artikel-image">
-              <h3>Tag-heuer-link</h3>
-              <p class="beschrijving">PRIJS: € 5.550,00 </p>
+              <img src="Image/OmegaDame1.jpg" alt="Artikel 1" class="artikel-image">
+              <h3>omega-constellation-Lady</h3>
+              <p class="beschrijving">PRIJS: € 37.800,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-link/32-mm-quartz/WBC131G.BA0649.html'" >Less meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-constellation-co-axial-master-chronometer-29-mm-13155292053003'" >Less meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame2.jpg" alt="Artikel 2" class="artikel-image">
-              <h3>Tag-heuer-aquaracer</h3>
-              <p class="beschrijving">PRIJS: € 3.400,00 </p>
+              <img src="image/OmegaDame2.jpg" alt="Artikel 2" class="artikel-image">
+              <h3>omega-de-ville-mini-tresor</h3>
+              <p class="beschrijving">PRIJS: € 5.200,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-aquaracer/30-mm-calibre-9-automatic/WBP2415.BA0622.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-de-ville-mini-tresor-quartz-26-mm-42818266004003'">Less Meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame3.jpg" alt="Artikel 3" class="artikel-image">
-              <h3>tag-heuer-connected</h3>
-              <p class="abeschrijving">PRIJS: € 1.400,00 </p>
+              <img src="image/OmegaDame3.jpg" alt="Artikel 3" class="artikel-image">
+              <h3>omega-seamaster-aqua-terra</h3>
+              <p class="abeschrijving">PRIJS: € 7.100,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BA0617.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-41-mm-22012412103008'">Less Meer</button>
           </div>
       </div>
+
 
 </div>
     <div class="Part">

@@ -27,66 +27,66 @@
 
 <!-- <div class="image-top" style="background-image: url('Image/ROLEX_TOP.JPG');">  -->
     
-<!-- FTAG-HEUR-Heren -->
+<!-- Rolex-Heren -->
 <div class="image">
            
-           <img src="Image/TagHeren.jpg" alt="Tag-Heur heren" class="product-image">
+           <img src="Image/Rolex heren.jpg" alt="Rolex heren" class="product-image">
        </div>
 
        <div class="product">
-           <h2>TAG-HEUER Heren</h2>
+           <h2>Rolex Heren</h2>
            <div class="artikel">
-               <img src="Image/TagHeren11.jpg" alt="Artikel 1" class="artikel-image">
-               <h3>Tag-heuer-formula-1</h3>
-               <p class="beschrijving">PRIJS: € 2.350,00 </p>
+               <img src="Image/Datajust36.jpg" alt="Artikel 1" class="artikel-image">
+               <h3>Rolex Datajust 36</h3>
+               <p class="beschrijving">PRIJS: € 9.300,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ101AW.BA0842.html'" >Less meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/datejust/m126234-0015'" >Less meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren2.jpg" alt="Artikel 2" class="artikel-image">
-               <h3>Tag-heuer-monaco</h3>
-               <p class="beschrijving">PRIJS: € 10.750,00 </p>
+               <img src="image/RolexYach.jpg" alt="Artikel 2" class="artikel-image">
+               <h3>Rolex Yacht Master</h3>
+               <p class="beschrijving">PRIJS: € 11.750,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-monaco/39-mm-calibre-heuer-02-automatic/CBL2182.FT6235.htmll'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/yacht-master/m268622-0002'">Less Meer</button>
            </div>
            <div class="artikel">
-               <img src="image/TagHeren3.jpg" alt="Artikel 3" class="artikel-image">
-               <h3>Tag-heuer-connected</h3>
-               <p class="abeschrijving">PRIJS: € 99,00 </p>
+               <img src="image/RolexSubamariner.jpg" alt="Artikel 3" class="artikel-image">
+               <h3>Rolex submariner</h3>
+               <p class="abeschrijving">PRIJS: € 10.700,00</p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-               <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BC6608.html'">Less Meer</button>
+               <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/submariner/features'">Less Meer</button>
            </div>
        </div>
    </div>
 
-   <!-- TAG-HEUR-VROUWEN-->
+   <!-- Rolex Vrouwen-->
    <div class="image">
           
-          <img src="Image/TagDames.jpg" alt="Tag-heur Dames" class="product-image">
+          <img src="Image/DAMES ROLEX.JPG" alt="Rolex Dames" class="product-image">
       </div>
 
       <div class="product">
-          <h2>TAG-HEUER vrouwen</h2>
+          <h2>Rolex Vrouwen</h2>
           <div class="artikel">
-              <img src="Image/TagDame1.jpg" alt="Artikel 1" class="artikel-image">
-              <h3>Tag-heuer-link</h3>
-              <p class="beschrijving">PRIJS: € 5.550,00 </p>
+              <img src="Image/RolexDame1.jpg" alt="Artikel 1" class="artikel-image">
+              <h3>Rolex Lady Data just Diamant</h3>
+              <p class="beschrijving">PRIJS: € 144.000,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-link/32-mm-quartz/WBC131G.BA0649.html'" >Less meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/lady-datejust/m279458rbr-0001'" >Less meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame2.jpg" alt="Artikel 2" class="artikel-image">
-              <h3>Tag-heuer-aquaracer</h3>
-              <p class="beschrijving">PRIJS: € 3.400,00 </p>
+              <img src="image/RolexDame2.jpg" alt="Artikel 2" class="artikel-image">
+              <h3>Rolex oyster-perpetual</h3>
+              <p class="beschrijving">PRIJS: € 6.400,00</p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/timepieces/collections/tag-heuer-aquaracer/30-mm-calibre-9-automatic/WBP2415.BA0622.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/oyster-perpetual/m124300-0008'">Less Meer</button>
           </div>
           <div class="artikel">
-              <img src="image/TagDame3.jpg" alt="Artikel 3" class="artikel-image">
-              <h3>tag-heuer-connected</h3>
-              <p class="abeschrijving">PRIJS: € 1.400,00 </p>
+              <img src="image/RolexDame3.jpg" alt="Artikel 3" class="artikel-image">
+              <h3>Rolex lady submariner</h3>
+              <p class="abeschrijving">PRIJS: € 40.400,00 </p>
               <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
-              <button class="btn Meer" onclick="window.location.href='https://www.tagheuer.com/be/en/smartwatches/collections/tag-heuer-connected/42-mm/SBR8010.BA0617.html'">Less Meer</button>
+              <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/watches/submariner/m126618lb-0002'">Less Meer</button>
           </div>
       </div>
 
