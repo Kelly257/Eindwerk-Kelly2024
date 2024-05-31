@@ -19,7 +19,7 @@
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
-        <li><a href="demo login/login.php"><i class="fas fa-user"></i> Inloggen</a></li>
+        <li><a href="login.php"><i class="fas fa-user"></i> Inloggen</a></li>
         <li><a href="winkelmandje.html"><i class="fas fa-shopping-cart"></i></a></li>
     </ul>
     
@@ -50,7 +50,7 @@
            <div class="artikel">
                <img src="image/Omegaheren3.jpg" alt="Artikel 3" class="artikel-image">
                <h3>omega-de-ville-prestige</h3>
-               <p class="abeschrijving">PRIJS: € 6.700,00 </p>
+               <p class="beschrijving">PRIJS: € 6.700,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
                <button class="btn Meer" onclick="window.location.href='https://www.omegawatches.com/watch-omega-de-ville-prestige-co-axial-master-chronometer-power-reserve-41-mm-43410412103001'">Less Meer</button>
            </div>

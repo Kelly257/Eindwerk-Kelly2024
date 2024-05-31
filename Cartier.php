@@ -19,7 +19,7 @@
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
-        <li><a href="demo login/login.php"><i class="fas fa-user"></i> Inloggen</a></li>
+        <li><a href="login1.php"><i class="fas fa-user"></i> Inloggen</a></li>
         <li><a href="winkelmandje.html"><i class="fas fa-shopping-cart"></i></a></li>
     </ul>
     

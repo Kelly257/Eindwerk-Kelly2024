@@ -19,7 +19,7 @@
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
-        <li><a href="demo login/login.php"><i class="fas fa-user"></i> Inloggen</a></li>
+        <li><a href="login.php"><i class="fas fa-user"></i> Inloggen</a></li>
         <li><a href="winkelmandje.html"><i class="fas fa-shopping-cart"></i></a></li>
     </ul>
     
@@ -87,7 +87,7 @@
            </div>
            <div class="artikel">
                <img src="image/FestinaDame3.jpg" alt="Artikel 3" class="artikel-image">
-               <p class="abeschrijving">PRIJS: € 119,00 </p>
+               <p class="beschrijving">PRIJS: € 119,00 </p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
                <button class="btn Meer" onclick="window.location.href='https://festina.com/nl-BE/klok/dames/festina/festina-dames-zwart-mademoiselle-staal-horloge-armband-f20496_2.html'">Less Meer</button>
            </div>

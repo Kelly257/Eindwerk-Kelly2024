@@ -12,7 +12,7 @@ if (isset($_SESSION["user"]))
   <head>
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" href ="Login.css">
+   <link rel="stylesheet" href ="Css/Login.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
    <link rel="shortcut icon" href="image/Logo.jpg" type="image/x-icon">
    <title>DemoLogin</title>
@@ -30,7 +30,7 @@ if (isset($_SESSION["user"]))
         <li><a href="Contact.html">Contact</a></li>
         <li><a href=""><?php if ($user!='Login') print 'Welkom '.$user;?></a></li>
         <?php if ($user=='Login') print '<li><a href="signupForm.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>';?>
-        <?php if ($user=='Login') print '<li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';?>
+        <?php if ($user=='Login') print '<li><a href="Login1.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';?>
         <li><a href="logout.php"><?php if ($user!='Login') print 'Logout';?></a></li>
 
         <li><a href="winkelmandje.html"><i class="fas fa-shopping-cart"></i></a></li>

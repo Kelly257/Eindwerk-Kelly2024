@@ -11,8 +11,9 @@ if (isset($_SESSION["user"]))
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Demo SignUp</title>  
+    <title>SignUp</title>  
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="Css/Login.css"> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>   
 </head>
@@ -52,7 +53,7 @@ if (isset($_SESSION["user"]))
                      <span class="glyphicon glyphicon-user"></span><input class="btn btn-primary" type="submit" value="SUBMIT" alt='person'>
                     </div>
                     <div class="form-footer">
-                        <p> Heb je al een account? <a href="login.php">Login</a></p>
+                        <p> Heb je al een account? <a href="Login.php">Login</a></p>
                     </div>
                     <?php 
                     if (isset($_GET["melding"])){ $melding=$_GET["melding"];}?>
