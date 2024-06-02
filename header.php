@@ -8,9 +8,10 @@
 </a>
     </div>
     <ul class="nav navbar-nav">
-        <li class="active"><a href="home.html">Home</a></li>
+        <li class="active"><a href="home.php">Home</a></li>
         <li><a href="catalogus.html">Catalogus</a></li>
         <li><a href="contact.html">Contact</a></li>
+        
         
     </ul>
     <ul class="nav navbar-nav navbar-right">

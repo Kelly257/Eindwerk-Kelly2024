@@ -15,7 +15,7 @@
     <img src="Image/Logo.jpg" alt="Logo" class="logo">
 </a>
     <ul>
-        <li><a href="home.html">Home</a></li>
+        <li><a href="home.php">Home</a></li>
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
@@ -52,7 +52,7 @@
            <div class="artikel">
                <img src="image/RolexSubamariner.jpg" alt="Artikel 3" class="artikel-image">
                <h3>Rolex submariner</h3>
-               <p class="abeschrijving">PRIJS: € 10.700,00</p>
+               <p class="beschrijving">PRIJS: € 10.700,00</p>
                <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
                <button class="btn Meer" onclick="window.location.href='https://www.rolex.com/nl/watches/submariner/features'">Less Meer</button>
            </div>
@@ -156,7 +156,7 @@
                   <div class="kol">
                      <h3>Quick-links</h3>
                      <div class="links">
-                        <a href="home.html">Home</a>
+                        <a href="home.php">Home</a>
                         <a href="Over-ons.html">Over-ons</a>
                         <a href="Catalogus.html">Catalogus</a>
                         <a href="Contact.html">Contact</a>

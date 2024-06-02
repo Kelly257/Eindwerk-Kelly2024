@@ -19,7 +19,7 @@
     <img src="Image/Logo.jpg" alt="Logo" class="logo">
 </a>
     <ul>
-        <li><a href="home.html">Home</a></li>
+        <li><a href="home.php">Home</a></li>
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
@@ -34,6 +34,36 @@
 <div class="image-top" style="background-image: url('Image/Logo1.jpg');"> 
 
 </div>
+
+
+
+
+
+<div class="product">
+    <h2>Populaire horloges</h2>
+    <div class="artikel">
+        <img src="Image/Datajust36.jpg" alt="Artikel 1" class="artikel-image">
+        <h3>Datajust36</h3>
+        <p class="beschrijving">PRIJS: € 9.300,00 </p>
+        <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+        <button class="btn Meer" onclick="window.location.href='rolex.php'" >Less meer</button>
+    </div>
+    <div class="artikel">
+        <img src="Image/OmegaDame1.jpg" alt="Artikel 2" class="artikel-image">
+        <h3>omega-constellation-Lady</h3>
+        <p class="beschrijving">PRIJS: € 37.800,00</p>
+        <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+        <button class="btn Meer" onclick="window.location.href='Omega.php'">Less Meer</button>
+    </div>
+    <div class="artikel">
+        <img src="Image/FestinaHeren2.jpg" alt="Artikel 3" class="artikel-image">
+        <h3>festina-horloge-klassiek</h3>
+        <p class="abeschrijving">PRIJS: € 129,00  </p>
+        <button class="btn Toevoegen">Voeg toe aan je winkelmandje</button>
+        <button class="btn Meer" onclick="window.location.href='Festina.php'">Less Meer</button>
+    </div>
+</div>
+
 
 
 
@@ -108,7 +138,7 @@
               <div class="kol">
                  <h3>Quick-links</h3>
                  <div class="links">
-                    <a href="home.html">Home</a>
+                    <a href="home.php">Home</a>
                     <a href="Over-ons.html">Over-ons</a>
                     <a href="Catalogus.html">Catalogus</a>
                     <a href="Contact.html">Contact</a>

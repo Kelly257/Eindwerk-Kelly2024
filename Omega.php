@@ -15,7 +15,7 @@
     <img src="Image/Logo.jpg" alt="Logo" class="logo">
 </a>
     <ul>
-        <li><a href="home.html">Home</a></li>
+        <li><a href="home.php">Home</a></li>
         <li><a href="Over-ons.html">Over ons</a></li>
         <li><a href="Catalogus.html">Catalogus</a></li>
         <li><a href="Contact.html">Contact</a></li>
@@ -154,7 +154,7 @@
                   <div class="kol">
                      <h3>Quick-links</h3>
                      <div class="links">
-                        <a href="home.html">Home</a>
+                        <a href="home.php">Home</a>
                         <a href="Over-ons.html">Over-ons</a>
                         <a href="Catalogus.html">Catalogus</a>
                         <a href="Contact.html">Contact</a>
