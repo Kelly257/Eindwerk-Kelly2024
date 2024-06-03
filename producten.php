@@ -1,50 +1,58 @@
+<?php
+include 'connection.php';
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-    
-    <title>Producten Webshop</title> 
-    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <title>Producten</title>
 </head>
 <body>
+<?php include "header.php"; ?>
 
-<!------------------------------ PRODUCTEN  ------------------------------>
-
-    <br><br><br>
-	<h1 style="text-align: center;">Producten</h1>
-    <main class="container">
+<div class="container">
+    <h1>Producten</h1>
     <div class="row">
         <?php
-        include 'connection.php';
-        $sql = "SELECT * FROM `tblproducten`";
+        $sql = "SELECT * FROM producten";
         $result = $conn->query($sql);
-        while($row = $result->fetch_assoc()) {
+
+        if ($result->num_rows > 0) {
+            while ($row = $result->fetch_assoc()) {
+                $formatted_price = number_format($row['prijs'], 2, ',', '.');
+                echo "
+                <div class='col-sm-4'>
+                    <div class='card'>
+                        <img src='Image/{$row['afbeelding']}' class='card-img-top' alt='{$row['naam']}'>
+                        <div class='card-body'>
+                            <h5 class='card-title'>{$row['naam']}</h5>
+                            <p class='card-text'>{$row['omschrijving']}</p>
+                            <p class='card-text'>€{$formatted_price}</p>
+                            <form action='winkelmandje.php' method='post'>
+                                <input type='hidden' name='product_id' value='{$row['id']}'>
+                                <input type='hidden' name='product_name' value='{$row['naam']}'>
+                                <input type='hidden' name='product_price' value='{$row['prijs']}'>
+                                <input type='hidden' name='product_image' value='{$row['afbeelding']}'>
+                                <button type='submit' name='add_to_cart' class='btn btn-primary'>Voeg toe aan je winkelmandje</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                ";
+            }
+        } else {
+            echo "Geen producten gevonden.";
+        }
+        $conn->close();
         ?>
-        <div class="product">
-                <img id="imgSchoenen" alt="schoenen" src="image/<?php echo $row['afbeelding']; ?> ">
-                <h2><?php echo $row['naam']; ?></h2>
-                <p><b>Unieke Vaardigheid:</b> <?php echo $row['omschrijving']; ?> </p>
-                <p class="prijs"><b>Prijs: </b> <?php echo $row['prijs']; ?> </p>
-                
-
-
-            </div>
-        </div>
-        <?php };
-        $conn->close();?>
     </div>
-</main>
-    
-   
-<!------------------------------ FOOTER ------------------------------>
-    
+</div>
 
-
-
+<?php include "footer.php"; ?>
 </body>
 </html>

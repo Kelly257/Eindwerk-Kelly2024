@@ -55,7 +55,9 @@ if (isset($_SESSION["user"]))
         </div>
     </div>
 
-
-
+   <!----------------Part---------------------------------->
+<?php include "Part.php"; ?>
+<!-----------Footer---------------->
+    <?php include "footer.php"; ?>
 </body>
 </html>

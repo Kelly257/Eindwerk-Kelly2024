@@ -61,6 +61,10 @@ if (isset($_SESSION["user"]))
                 </form>
          </div>
     </div>
+    <!----------------Part---------------------------------->
+<?php include "Part.php"; ?>
+<!---------------Footer---------------------->
+    <?php include "footer.php"; ?>
     
     </body>
 </html>

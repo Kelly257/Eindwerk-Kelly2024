@@ -71,31 +71,148 @@ a:hover{
   }
 
   /*-----------------------Home--------------------------*/
+  .navbar {
+   background-color: #417033;
+   color: #fff;
+   padding: 10px;
+   position: relative;
+}
+
+.navbar .container-fluid {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.navbar .navbar-header .logo {
+   width: 100px;
+}
+
+.navbar-nav {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   align-items: center;
+}
+
+.navbar-nav li {
+   margin-right: 20px;
+}
+
+.navbar-nav li a {
+   color: #fff;
+   text-decoration: none;
+}
+
+.navbar-nav .navbar-right {
+   display: flex;
+   align-items: center;
+}
+
+.navbar-nav .navbar-right li {
+   margin-left: 20px;
+}
+
+.navbar-toggle {
+   display: none;
+   font-size: 24px;
+   cursor: pointer;
+}
+
+@media (max-width: 768px) {
+   .navbar-nav {
+       display: none;
+       flex-direction: column;
+       position: absolute;
+       top: 60px;
+       left: 0;
+       width: 100%;
+       background-color: #417033;
+   }
+
+   .navbar-nav.active {
+       display: flex;
+   }
+
+   .navbar-toggle {
+       display: block;
+   }
+
+   .navbar-nav li {
+       margin: 10px 0;
+   }
+}
 
 
   
 /***************************************************OVER ONS******************/
-  .tekst {
-   max-width: 100%;
-   margin: 0 auto;
+  /***************************************************OVER ONS******************/
+.tekst {
+   max-width: 800px;
+   margin: 20px auto;
    background-color: #fff;
    padding: 20px;
-   border-radius:  15px 50px 30px;
-   margin: 20px;
+   border-radius: 15px 50px 30px;
+   border: 2px solid #417033;
 }
+
 .tekst p {
    font-size: 21px;
    margin-bottom: 5px;
 }
+
 .tekst h1{
    text-align: center;
-   color:#417033;
+   color: #417033;
 }
 
 .tekst h2 {
    font-size: 24px;
    margin-bottom: 10px;
    color: #417033;
+}
+
+/* Fondateur et CEO Section */
+.founder-section {
+   max-width: 800px;
+   margin: 20px auto;
+   background-color: #fff;
+   padding: 20px;
+   border-radius: 15px 50px 30px;
+   border: 2px solid #417033;
+}
+
+.founder-section h2 {
+   text-align: center;
+   color: #417033;
+}
+
+.founder-profile {
+   display: flex;
+   align-items: center;
+   gap: 20px;
+}
+
+.founder-image {
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   border: 2px solid #ff014fff;
+}
+
+.founder-info {
+   max-width: 600px;
+}
+
+.founder-info h3 {
+   color: #417033;
+   margin-bottom: 10px;
+}
+
+.founder-info p {
+   font-size: 18px;
+   color: #333;
 }
 
   /**************************CATALOGUS PAGINA****************************************************/
